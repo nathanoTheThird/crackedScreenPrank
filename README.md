@@ -1,2 +1,2 @@
-# crackedScreenPrank
-Prank your friends! Simulates a broken screen.
+# Cracked Screen Prank
+Prank your friends! This website simulates a broken screen.
